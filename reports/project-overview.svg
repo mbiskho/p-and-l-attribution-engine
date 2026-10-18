@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" role="img" aria-labelledby="chart-title chart-description">
+<title id="chart-title">P&amp;L Attribution Engine project overview</title>
+<desc id="chart-description">White project overview with summary metrics and a component attribution chart. Period P&amp;L: USD 131,700.</desc>
+<rect width="1200" height="820" fill="#ffffff"/>
+<rect x="34" y="30" width="1132" height="760" rx="24" fill="#ffffff" stroke="#e5eaf1" stroke-width="2"/>
+<rect x="66" y="64" width="48" height="48" rx="14" fill="#eaf2ff"/>
+<path d="M80 97V83h7v14m5 0V74h7v23m5 0V88h7v9" fill="none" stroke="#2563eb" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="130" y="84" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">QUANT ANALYSIS • PORTFOLIO TOOLING</text>
+<text x="130" y="111" fill="#0f172a" font-family="Inter,Arial,sans-serif" font-size="25" font-weight="700">P&amp;L Attribution Engine</text>
+<text x="66" y="168" fill="#0f172a" font-family="Inter,Arial,sans-serif" font-size="31" font-weight="700">A clear bridge from NAV movement to its drivers.</text>
+<text x="66" y="199" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="16">Daily portfolio P&amp;L, cash flows, component attribution, and transparent residual reconciliation.</text>
+<rect x="66" y="230" width="332" height="94" rx="16" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="86" y="260" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.1">PERIOD P&amp;L</text>
+<text x="86" y="298" fill="#15803d" font-family="Inter,Arial,sans-serif" font-size="24" font-weight="700">USD 131,700</text>
+<rect x="422" y="230" width="332" height="94" rx="16" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="442" y="260" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.1">EXTERNAL FLOWS</text>
+<text x="442" y="298" fill="#1d4ed8" font-family="Inter,Arial,sans-serif" font-size="24" font-weight="700">USD 150,000</text>
+<rect x="778" y="230" width="332" height="94" rx="16" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="798" y="260" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.1">RECONCILIATION GAP</text>
+<text x="798" y="298" fill="#b45309" font-family="Inter,Arial,sans-serif" font-size="24" font-weight="700">-USD 1,000</text>
+<text x="66" y="372" fill="#0f172a" font-family="Inter,Arial,sans-serif" font-size="20" font-weight="700">Period attribution by component</text>
+<text x="66" y="397" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="13">2026-01-05 to 2026-01-09 • Currency P&amp;L</text>
+<text x="770" y="416" text-anchor="middle" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="12">← LOSS      GAIN →</text>
+<line x1="770" y1="422" x2="770" y2="730" stroke="#cbd5e1" stroke-width="2" stroke-dasharray="4 5"/>
+<text x="80" y="435" fill="#334155" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600">Fees</text>
+<rect x="728.27" y="422" width="41.73" height="18" rx="5" fill="#dc2626"><title>Fees: -USD 13,100</title></rect>
+<text x="1105" y="435" text-anchor="end" fill="#dc2626" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700">-USD 13,100</text>
+<line x1="66" y1="450" x2="1134" y2="450" stroke="#f1f5f9"/>
+<text x="80" y="479" fill="#334155" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600">FX</text>
+<rect x="758.85" y="466" width="11.15" height="18" rx="5" fill="#dc2626"><title>FX: -USD 3,500</title></rect>
+<text x="1105" y="479" text-anchor="end" fill="#dc2626" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700">-USD 3,500</text>
+<line x1="66" y1="494" x2="1134" y2="494" stroke="#f1f5f9"/>
+<text x="80" y="523" fill="#334155" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600">Credit</text>
+<rect x="766.50" y="510" width="3.50" height="18" rx="5" fill="#dc2626"><title>Credit: -USD 1,100</title></rect>
+<text x="1105" y="523" text-anchor="end" fill="#dc2626" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700">-USD 1,100</text>
+<line x1="66" y1="538" x2="1134" y2="538" stroke="#f1f5f9"/>
+<text x="80" y="567" fill="#334155" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600">Reconciliation residual</text>
+<rect x="766.81" y="554" width="3.19" height="18" rx="5" fill="#dc2626"><title>Reconciliation residual: -USD 1,000</title></rect>
+<text x="1105" y="567" text-anchor="end" fill="#dc2626" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700">-USD 1,000</text>
+<line x1="66" y1="582" x2="1134" y2="582" stroke="#f1f5f9"/>
+<text x="80" y="611" fill="#334155" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600">Income</text>
+<rect x="770.00" y="598" width="52.88" height="18" rx="5" fill="#16a34a"><title>Income: USD 16,600</title></rect>
+<text x="1105" y="611" text-anchor="end" fill="#16a34a" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700">USD 16,600</text>
+<line x1="66" y1="626" x2="1134" y2="626" stroke="#f1f5f9"/>
+<text x="80" y="655" fill="#334155" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600">Equity</text>
+<rect x="770.00" y="642" width="196.23" height="18" rx="5" fill="#16a34a"><title>Equity: USD 61,600</title></rect>
+<text x="1105" y="655" text-anchor="end" fill="#16a34a" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700">USD 61,600</text>
+<line x1="66" y1="670" x2="1134" y2="670" stroke="#f1f5f9"/>
+<text x="80" y="699" fill="#334155" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600">Rates</text>
+<rect x="770.00" y="686" width="230.00" height="18" rx="5" fill="#16a34a"><title>Rates: USD 72,200</title></rect>
+<text x="1105" y="699" text-anchor="end" fill="#16a34a" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700">USD 72,200</text>
+<line x1="66" y1="714" x2="1134" y2="714" stroke="#f1f5f9"/>
+<text x="66" y="766" fill="#94a3b8" font-family="Inter,Arial,sans-serif" font-size="12">Synthetic sample • Signed currency contributions • External flows excluded from P&amp;L</text>
+</svg>

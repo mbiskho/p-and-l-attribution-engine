@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" role="img" aria-labelledby="chart-title chart-description">
+<title id="chart-title">P&amp;L Attribution Engine workflow</title>
+<desc id="chart-description">White workflow diagram from daily portfolio inputs through P&amp;L calculation, attribution and reconciliation, with the included cumulative P&amp;L chart.</desc>
+<rect width="1200" height="820" fill="#ffffff"/>
+<rect x="34" y="30" width="1132" height="760" rx="24" fill="#ffffff" stroke="#e5eaf1" stroke-width="2"/>
+<text x="66" y="86" fill="#2563eb" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">HOW IT WORKS</text>
+<text x="66" y="126" fill="#0f172a" font-family="Inter,Arial,sans-serif" font-size="31" font-weight="700">From portfolio ledger to explainable P&amp;L</text>
+<text x="66" y="157" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="15">Each step is explicit, validated, and traceable to the final report.</text>
+<rect x="66" y="196" width="202" height="150" rx="16" fill="#f8fafc" stroke="#dbe4ef"/>
+<circle cx="94" cy="227" r="15" fill="#dbeafe"/>
+<text x="94" y="232" text-anchor="middle" fill="#1d4ed8" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="700">01</text>
+<text x="84" y="265" fill="#0f172a" font-family="Inter,Arial,sans-serif" font-size="15" font-weight="700">Daily inputs</text>
+<text x="84" y="292" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="11">
+<tspan x="84" dy="0">Opening/closing NAV</tspan>
+<tspan x="84" dy="15">Cash flows</tspan>
+<tspan x="84" dy="15">Component amounts</tspan>
+</text>
+<path d="M273 271h12m-5 -5 5 5-5 5" fill="none" stroke="#94a3b8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="290" y="196" width="202" height="150" rx="16" fill="#f8fafc" stroke="#dbe4ef"/>
+<circle cx="318" cy="227" r="15" fill="#dbeafe"/>
+<text x="318" y="232" text-anchor="middle" fill="#1d4ed8" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="700">02</text>
+<text x="308" y="265" fill="#0f172a" font-family="Inter,Arial,sans-serif" font-size="15" font-weight="700">Calculate P&amp;L</text>
+<text x="308" y="292" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="11">
+<tspan x="308" dy="0">Closing NAV less</tspan>
+<tspan x="308" dy="15">opening NAV and</tspan>
+<tspan x="308" dy="15">external flows</tspan>
+</text>
+<path d="M497 271h12m-5 -5 5 5-5 5" fill="none" stroke="#94a3b8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="514" y="196" width="202" height="150" rx="16" fill="#f8fafc" stroke="#dbe4ef"/>
+<circle cx="542" cy="227" r="15" fill="#dbeafe"/>
+<text x="542" y="232" text-anchor="middle" fill="#1d4ed8" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="700">03</text>
+<text x="532" y="265" fill="#0f172a" font-family="Inter,Arial,sans-serif" font-size="15" font-weight="700">Attribute</text>
+<text x="532" y="292" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="11">
+<tspan x="532" dy="0">Sum signed component</tspan>
+<tspan x="532" dy="15">contributions</tspan>
+</text>
+<path d="M721 271h12m-5 -5 5 5-5 5" fill="none" stroke="#94a3b8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="738" y="196" width="202" height="150" rx="16" fill="#f8fafc" stroke="#dbe4ef"/>
+<circle cx="766" cy="227" r="15" fill="#dbeafe"/>
+<text x="766" y="232" text-anchor="middle" fill="#1d4ed8" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="700">04</text>
+<text x="756" y="265" fill="#0f172a" font-family="Inter,Arial,sans-serif" font-size="15" font-weight="700">Reconcile</text>
+<text x="756" y="292" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="11">
+<tspan x="756" dy="0">Show unexplained</tspan>
+<tspan x="756" dy="15">amount as residual</tspan>
+</text>
+<path d="M945 271h12m-5 -5 5 5-5 5" fill="none" stroke="#94a3b8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="962" y="196" width="202" height="150" rx="16" fill="#f8fafc" stroke="#dbe4ef"/>
+<circle cx="990" cy="227" r="15" fill="#dbeafe"/>
+<text x="990" y="232" text-anchor="middle" fill="#1d4ed8" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="700">05</text>
+<text x="980" y="265" fill="#0f172a" font-family="Inter,Arial,sans-serif" font-size="15" font-weight="700">Report</text>
+<text x="980" y="292" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="11">
+<tspan x="980" dy="0">Period totals, daily</tspan>
+<tspan x="980" dy="15">trail, JSON and charts</tspan>
+</text>
+<text x="66" y="397" fill="#0f172a" font-family="Inter,Arial,sans-serif" font-size="20" font-weight="700">Cumulative P&amp;L output</text>
+<text x="66" y="421" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="13">2026-01-05 to 2026-01-09 • USD • NAV change less external flows</text>
+<rect x="66" y="442" width="1068" height="306" rx="16" fill="#fbfdff" stroke="#e2e8f0"/>
+<line x1="155" y1="722.00" x2="1080" y2="722.00" stroke="#e2e8f0"/>
+<text x="143" y="726.00" text-anchor="end" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="10">-USD 15,804</text>
+<line x1="155" y1="682.67" x2="1080" y2="682.67" stroke="#e2e8f0"/>
+<text x="143" y="686.67" text-anchor="end" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="10">USD 38,632</text>
+<line x1="155" y1="643.33" x2="1080" y2="643.33" stroke="#e2e8f0"/>
+<text x="143" y="647.33" text-anchor="end" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="10">USD 93,068</text>
+<line x1="155" y1="604.00" x2="1080" y2="604.00" stroke="#e2e8f0"/>
+<text x="143" y="608.00" text-anchor="end" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="10">USD 147,504</text>
+<polygon points="155.00,710.58 155.00,685.44 386.25,692.95 617.50,680.88 848.75,652.34 1080.00,615.42 1080.00,710.58" fill="#3b82f6" opacity="0.10"/>
+<polyline points="155.00,685.44 386.25,692.95 617.50,680.88 848.75,652.34 1080.00,615.42" fill="none" stroke="#2563eb" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="155.00" cy="685.44" r="5" fill="#2563eb" stroke="#ffffff" stroke-width="2"><title>2026-01-05: USD 34,800</title></circle>
+<text x="155.00" y="745" text-anchor="middle" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="10">01-05</text>
+<circle cx="386.25" cy="692.95" r="5" fill="#2563eb" stroke="#ffffff" stroke-width="2"><title>2026-01-06: USD 24,400</title></circle>
+<text x="386.25" y="745" text-anchor="middle" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="10">01-06</text>
+<circle cx="617.50" cy="680.88" r="5" fill="#2563eb" stroke="#ffffff" stroke-width="2"><title>2026-01-07: USD 41,100</title></circle>
+<text x="617.50" y="745" text-anchor="middle" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="10">01-07</text>
+<circle cx="848.75" cy="652.34" r="5" fill="#2563eb" stroke="#ffffff" stroke-width="2"><title>2026-01-08: USD 80,600</title></circle>
+<text x="848.75" y="745" text-anchor="middle" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="10">01-08</text>
+<circle cx="1080.00" cy="615.42" r="5" fill="#2563eb" stroke="#ffffff" stroke-width="2"><title>2026-01-09: USD 131,700</title></circle>
+<text x="1080.00" y="745" text-anchor="middle" fill="#64748b" font-family="Inter,Arial,sans-serif" font-size="10">01-09</text>
+<text x="66" y="775" fill="#94a3b8" font-family="Inter,Arial,sans-serif" font-size="12">Synthetic example • Residual remains visible rather than being silently assigned to another component</text>
+</svg>

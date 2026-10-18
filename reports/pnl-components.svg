@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 820" role="img" aria-labelledby="chart-title chart-description">
+<title id="chart-title">Period P&amp;L attribution</title>
+<desc id="chart-description">P&amp;L attribution from 2026-01-05 to 2026-01-09 totals USD 131,700.</desc>
+<rect width="1120" height="820" rx="24" fill="#0b1220"/>
+<text x="56" y="64" fill="#e8eef7" font-family="Inter,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">PORTFOLIO PERFORMANCE</text>
+<text x="56" y="112" fill="#e8eef7" font-family="Inter,Arial,sans-serif" font-size="34" font-weight="700">Where did P&amp;L come from?</text>
+<text x="56" y="147" fill="#91a0b5" font-family="Inter,Arial,sans-serif" font-size="15">Attribution bridge • 2026-01-05 to 2026-01-09 • USD</text>
+<rect x="56" y="178" width="1008" height="58" rx="12" fill="#111c2e" stroke="#26354b"/>
+<text x="78" y="214" fill="#91a0b5" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1">TOTAL PORTFOLIO P&amp;L</text>
+<text x="1038" y="216" text-anchor="end" fill="#34d399" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="700">USD 131,700</text>
+<text x="650" y="236" fill="#91a0b5" font-family="Inter,Arial,sans-serif" font-size="12" text-anchor="middle">← LOSS      GAIN →</text>
+<line x1="650" y1="250" x2="650" y2="694" stroke="#26354b" stroke-width="2" stroke-dasharray="4 6"/>
+<rect x="44" y="245" width="1032" height="52" rx="10" fill="#111c2e"/>
+<text x="64" y="268" fill="#e8eef7" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="700">Fees</text>
+<rect x="599.20" y="253" width="50.80" height="24" rx="4" fill="#60a5fa"><title>Fees: -USD 13,100</title></rect>
+<text x="1048" y="268" text-anchor="end" fill="#fb7185" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700">-USD 13,100</text>
+<rect x="44" y="309" width="1032" height="52" rx="10" fill="#0b1220"/>
+<text x="64" y="332" fill="#e8eef7" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="700">FX</text>
+<rect x="636.43" y="317" width="13.57" height="24" rx="4" fill="#fbbf24"><title>FX: -USD 3,500</title></rect>
+<text x="1048" y="332" text-anchor="end" fill="#fb7185" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700">-USD 3,500</text>
+<rect x="44" y="373" width="1032" height="52" rx="10" fill="#111c2e"/>
+<text x="64" y="396" fill="#e8eef7" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="700">Credit</text>
+<rect x="645.73" y="381" width="4.27" height="24" rx="4" fill="#c084fc"><title>Credit: -USD 1,100</title></rect>
+<text x="1048" y="396" text-anchor="end" fill="#fb7185" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700">-USD 1,100</text>
+<rect x="44" y="437" width="1032" height="52" rx="10" fill="#0b1220"/>
+<text x="64" y="460" fill="#e8eef7" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="700">Reconciliation residual</text>
+<rect x="646.12" y="445" width="3.88" height="24" rx="4" fill="#2dd4bf"><title>Reconciliation residual: -USD 1,000</title></rect>
+<text x="1048" y="460" text-anchor="end" fill="#fb7185" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700">-USD 1,000</text>
+<rect x="44" y="501" width="1032" height="52" rx="10" fill="#111c2e"/>
+<text x="64" y="524" fill="#e8eef7" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="700">Income</text>
+<rect x="650.00" y="509" width="64.38" height="24" rx="4" fill="#fb923c"><title>Income: USD 16,600</title></rect>
+<text x="1048" y="524" text-anchor="end" fill="#34d399" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700">USD 16,600</text>
+<rect x="44" y="565" width="1032" height="52" rx="10" fill="#0b1220"/>
+<text x="64" y="588" fill="#e8eef7" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="700">Equity</text>
+<rect x="650.00" y="573" width="238.89" height="24" rx="4" fill="#a3e635"><title>Equity: USD 61,600</title></rect>
+<text x="1048" y="588" text-anchor="end" fill="#34d399" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700">USD 61,600</text>
+<rect x="44" y="629" width="1032" height="52" rx="10" fill="#111c2e"/>
+<text x="64" y="652" fill="#e8eef7" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="700">Rates</text>
+<rect x="650.00" y="637" width="280.00" height="24" rx="4" fill="#60a5fa"><title>Rates: USD 72,200</title></rect>
+<text x="1048" y="652" text-anchor="end" fill="#34d399" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="700">USD 72,200</text>
+<line x1="56" y1="732" x2="1064" y2="732" stroke="#26354b"/>
+<text x="56" y="756" fill="#91a0b5" font-family="Inter,Arial,sans-serif" font-size="12">Currency contribution by component • Synthetic example data • Not investment advice</text>
+</svg>
