@@ -1,0 +1,76 @@
+{
+  "currency": "USD",
+  "continuity_tolerance": 0.01,
+  "observations": [
+    {
+      "date": "2026-01-05",
+      "opening_nav": 10000000,
+      "external_flows": 0,
+      "closing_nav": 10034800,
+      "attribution": {
+        "Equity": 28000,
+        "Rates": 8500,
+        "Credit": -4200,
+        "Income": 3200,
+        "FX": 1800,
+        "Fees": -2500
+      }
+    },
+    {
+      "date": "2026-01-06",
+      "opening_nav": 10034800,
+      "external_flows": 250000,
+      "closing_nav": 10274400,
+      "attribution": {
+        "Equity": -42000,
+        "Rates": 42700,
+        "Credit": -8500,
+        "Income": 3300,
+        "FX": -2300,
+        "Fees": -2600
+      }
+    },
+    {
+      "date": "2026-01-07",
+      "opening_nav": 10274400,
+      "external_flows": 0,
+      "closing_nav": 10291100,
+      "attribution": {
+        "Equity": 21100,
+        "Rates": -6200,
+        "Credit": 2100,
+        "Income": 3400,
+        "FX": -1100,
+        "Fees": -2600
+      }
+    },
+    {
+      "date": "2026-01-08",
+      "opening_nav": 10291100,
+      "external_flows": -100000,
+      "closing_nav": 10230600,
+      "attribution": {
+        "Equity": 20000,
+        "Rates": 18000,
+        "Credit": 2000,
+        "Income": 3300,
+        "FX": -1100,
+        "Fees": -2700
+      }
+    },
+    {
+      "date": "2026-01-09",
+      "opening_nav": 10230600,
+      "external_flows": 0,
+      "closing_nav": 10281700,
+      "attribution": {
+        "Equity": 34500,
+        "Rates": 9200,
+        "Credit": 7500,
+        "Income": 3400,
+        "FX": -800,
+        "Fees": -2700
+      }
+    }
+  ]
+}
